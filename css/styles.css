@@ -1,0 +1,54 @@
+body {
+    font-family: "Roboto";
+    color: #4344551;
+    font-size: 16px;
+    background-color: #fafafa;
+    line-height: 24px;
+    letter-spacing: 2%;
+    font-weight: 400;
+}
+    .button {
+        background-color: #007bff; 
+        color: #434455;             
+        font-size: 80px;           
+        padding: 50px 20px;        
+        border: none;               
+        border-radius: 5px;         
+        cursor: pointer;
+  }
+  header {
+    font-family: "Roboto"
+    line-height: 700;
+    font-size: 18px;
+    text-align: uppercase;
+    line-height: 21px;
+    letter-spacing: 3%;
+  }
+  h1 {
+    font-family: "Roboto"
+    font-size: 56px;
+    text-align: center;
+    line-height: 60%;
+    letter-spacing: 2%;
+  }
+h2 {
+    font-family: "Roboto"
+    font-size: 32px;
+    text-align: center;
+    line-height: 1.333;
+    letter-spacing: 3px;
+  }
+  h3 {
+     font-family: "Roboto"
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 2%;
+ p {
+    font-family: "Roboto"
+    font-size: 16px;
+    text-align: center;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+  }
+ 
