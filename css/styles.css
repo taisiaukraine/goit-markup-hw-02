@@ -1,5 +1,5 @@
 body {
-    font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
     color: #4344551;
     font-size: 16px;
     background-color: #fafafa;
@@ -7,48 +7,56 @@ body {
     letter-spacing: 2%;
     font-weight: 400;
 }
-    .button {
-        background-color: #007bff; 
-        color: #434455;             
-        font-size: 80px;           
-        padding: 50px 20px;        
-        border: none;               
-        border-radius: 5px;         
-        cursor: pointer;
-  }
+.element {
+  color: #fff;
+  background-color: #fff;
+}
   header {
-    font-family: "Roboto"
-    line-height: 700;
-    font-size: 18px;
-    text-align: uppercase;
-    line-height: 21px;
-    letter-spacing: 3%;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2e2f42;
   }
   h1 {
-    font-family: "Roboto"
-    font-size: 56px;
-    text-align: center;
-    line-height: 60%;
-    letter-spacing: 2%;
+    background-color: rgba(46, 47, 66, 1);
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+font-size: 56px;
+line-height: 1.07143;
+letter-spacing: 0.02em;
+text-align: center;
+color: #fff;
   }
 h2 {
-    font-family: "Roboto"
-    font-size: 32px;
-    text-align: center;
-    line-height: 1.333;
-    letter-spacing: 3px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
   }
   h3 {
-     font-family: "Roboto"
-    font-size: 20px;
-    line-height: 24px;
-    letter-spacing: 2%;
- p {
-    font-family: "Roboto"
-    font-size: 16px;
-    text-align: center;
-    line-height: 24px;
-    letter-spacing: 2%;
-}
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
   }
- 
+    p {
+      font-family: "Roboto", sans-serif;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 1.5;
+      letter-spacing: 0.02em;
+      text-align: center;
+      color: #434455;
+}
+img {
+  width: 264px;
+height: 260px;
+}
